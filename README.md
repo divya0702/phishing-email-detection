@@ -40,9 +40,6 @@ The research assesses three distinct neural architectures within a common prepro
 
 ```text
 ├── data/               # Dataset references/links
-├── models/             # Model architecture definitions
-├── notebooks/          # Exploratory Data Analysis & Training scripts
-├── preprocessing/      # Text cleaning and tokenization scripts
 ├── Paper_Final.pdf     # Full Research Report
 └── README.md
 

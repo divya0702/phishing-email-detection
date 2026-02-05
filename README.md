@@ -38,16 +38,19 @@ The research assesses three distinct neural architectures within a common prepro
 
 ## 📂 Project Structure
 
-```text
-├── data/               # Dataset references/links
-├── Paper_Final.pdf     # Full Research Report
-└── README.md
-
-```
+├── 📁 [data/](./data/)               # Dataset references, links, and README
+├── 📁 [notebooks/](./notebooks/)     # Google Colab notebooks and .py scripts
+├── 📄 [Paper_Final.pdf](./Paper_Final.pdf) # Full Research Report
+└── 📄 README.md                      # Project documentation
 
 ## 📜 Abstract
 
 > "Email phishing remains a critical cyber threat. This project proposes assessing whether deep learning models are capable of identifying phishing emails on a standardized set. Experimental findings on 145,000+ emails show that the models—specifically charCNN-BERT, are highly effective in developing real-world solutions for phishing detection."
+
+## 📺 Project Presentation
+Click the link below to watch the technical walkthrough of our research and model evaluation.
+
+[![Watch the video]](https://umd.app.box.com/s/brqjhe6tlas002kfzqz589jxypdhzzsl)
 
 ## 🤝 Contact & Credits
 

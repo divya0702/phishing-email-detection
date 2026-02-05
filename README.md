@@ -40,9 +40,9 @@ The research assesses three distinct neural architectures within a common prepro
 
 | Path | Description |
 | --- | --- |
-| 📁 [data/](https://www.google.com/search?q=./data/) | Dataset references and source links |
-| 📁 [notebooks/](https://www.google.com/search?q=./notebooks/) | Model training and Colab notebooks |
-| 📄 [Paper_Final.pdf](https://www.google.com/search?q=./Group%25207%2520Project%2520Final%2520Report.pdf) | Final Research Publication |
+| 📁 [data/](./data/) | Dataset references and source links |
+| 📁 [notebooks/](./notebooks/) | Model training and Colab notebooks |
+| 📄 [Paper_Final.pdf](Paper_Final.pdf) | Final Research Publication |
 
 ---
 

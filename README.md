@@ -37,11 +37,16 @@ The research assesses three distinct neural architectures within a common prepro
 | **Hybrid BiLSTM-DNN** | Solid | Solid | Reliable baseline architecture |
 
 ## 📂 Project Structure
-```text
-├── 📁 [data/](./data/)
-├── 📁 [notebooks/](./notebooks/)
-└── 📄 [Paper_Final.pdf](./Group%207%20Project%20Final%20Report.pdf)
-```
+
+| Path | Description |
+| --- | --- |
+| 📁 [data/](https://www.google.com/search?q=./data/) | Dataset references and source links |
+| 📁 [notebooks/](https://www.google.com/search?q=./notebooks/) | Model training and Colab notebooks |
+| 📄 [Paper_Final.pdf](https://www.google.com/search?q=./Group%25207%2520Project%2520Final%2520Report.pdf) | Final Research Publication |
+
+---
+
+
 
 ## 📜 Abstract
 
